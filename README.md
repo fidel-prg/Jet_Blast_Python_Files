@@ -6,6 +6,8 @@ of the jet blast.
 
 # Python Scripts
 
+- Centerline Velocity Decay: This plot is very important because it shows the relationship between the velocity in x- axis and the distance (It is used to determe the distance at which the velocity becomes harmful for ground airport personnel or other aircrafts. i.e. 35 miles per hour or 16 m/s)
+- Normalized Axial Velocity Profiles
 
 
 
